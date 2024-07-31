@@ -1,5 +1,4 @@
 ## Hi there, my name is Maboku Seimela 👋
-## 👋 Hi, I'm Himothy
 ## 🔭 I’m currently working on:
 ## An AI Chatbot with a Vector Database
 ## A Daily Goals project using Firebase for authentication and database (Firestore)
