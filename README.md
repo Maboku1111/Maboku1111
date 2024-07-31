@@ -1,4 +1,4 @@
-## Hi there, my name is Maboku Seimela 👋
+## Hi, I'm Maboku Seimela 👋
 ## 🔭 I’m currently working on:
 ## An AI Chatbot with a Vector Database
 ## A Daily Goals project using Firebase for authentication and database (Firestore)
@@ -16,7 +16,7 @@
 ## Anything related to software engineering, AI, and web development
 ## I'm always happy to learn new things, so don't hesitate to ask!
 ## 📫 How to reach me:
-## You can reach me via email at your-email@example.com
+## You can reach me via email at mabokuseimela6@gmail.com
 ## 😄 Pronouns:
 ## He/Him/His/Himothy/Heem
 ## ⚡ Fun fact:
