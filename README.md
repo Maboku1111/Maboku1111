@@ -1,26 +1,43 @@
-## Hi, I'm Maboku Seimela 👋
-## 🔭 I’m currently working on:
-## An AI Chatbot with a Vector Database
-## A Daily Goals project using Firebase for authentication and database (Firestore)
-## 🌱 I’m currently learning:
-## JavaScript (React)
-## AI
-## Vector Databases
-## 👯 I’m looking to collaborate on:
-## Projects related to software engineering, AI, and API monetization in a work environment/hybrid setting
-## Developing AI Agents for various applications
-## 🤔 I’m looking for help with:
-## Best practices for software engineering and web development
-## Understanding and implementing advanced AI concepts
-## 💬 Ask me about:
-## Anything related to software engineering, AI, and web development
-## I'm always happy to learn new things, so don't hesitate to ask!
-## 📫 How to reach me:
-## You can reach me via email at mabokuseimela6@gmail.com
-## 😄 Pronouns:
-## He/Him/His/Himothy/Heem
-## ⚡ Fun fact:
-## I can cook up a storm in the kitchen!
+# Hi there, I'm Maboku1111 👋
+
+Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and exploring new technologies. Here's a little bit about me:
+
+## 🔧 Technologies & Tools
+- **Languages:** Python, JavaScript, Java, C++
+- **Frameworks/Libraries:** React, Node.js, Spring Boot
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Other Tools:** Docker, Kubernetes, Git, Jenkins
+
+## 🚀 Projects
+Here are some of the projects I've been working on:
+
+- **[Project Name](link-to-project)**: Brief description of the project.
+- **[Project Name](link-to-project)**: Brief description of the project.
+- **[Project Name](link-to-project)**: Brief description of the project.
+
+## 📫 How to reach me
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Twitter:** [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+
+## 🌱 What I'm currently learning
+- Advanced algorithms and data structures
+- Cloud computing with AWS and Azure
+- Machine learning and AI
+
+## 💬 Ask me about
+- Full-stack web development
+- Open source contributions
+- Software architecture and design patterns
+
+## ⚡ Fun fact
+I love hiking and photography when I'm not coding!
+
+Feel free to check out my repositories and get in touch if you'd like to collaborate on any projects or just chat about tech!
+
+![Maboku1111's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maboku1111&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maboku1111&layout=compact&theme=radical)
 
 
 <!--
