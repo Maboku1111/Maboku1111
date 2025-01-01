@@ -1,11 +1,11 @@
-# Hi there, I'm Maboku1111 👋
+# Hi there, I'm Maboku Seimela
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and exploring new technologies. Here's a little bit about me:
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python, JavaScript, Java, C++
-- **Frameworks/Libraries:** React, Node.js, Spring Boot
-- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Languages:** JavaScript, Java
+- **Frameworks/Libraries:** React, Node.js, Spring Boot, Angular
+- **Databases:** MongoDB, PostgreSQL
 - **Other Tools:** Docker, Kubernetes, Git, Jenkins
 
 ## 🚀 Projects
